@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-14T14:39:54 IST" name="Default suite" finished-at="2024-06-14T14:40:59 IST" duration-ms="64754">
+    <groups>
+    </groups>
+    <test started-at="2024-06-14T14:39:54 IST" name="Default test" finished-at="2024-06-14T14:40:59 IST" duration-ms="64754">
+      <class name="Turtletestpkg.Turtletestcls">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Turtletestpkg.Turtletestcls@2ddc9a9f]" started-at="2024-06-14T14:39:54 IST" name="setup" finished-at="2024-06-14T14:40:03 IST" duration-ms="8697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="befmthd()[pri:0, instance:Turtletestpkg.Turtletestcls@2ddc9a9f]" started-at="2024-06-14T14:40:03 IST" name="befmthd" finished-at="2024-06-14T14:40:03 IST" duration-ms="84" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befmthd -->
+        <test-method signature="popuptest()[pri:1, instance:Turtletestpkg.Turtletestcls@2ddc9a9f]" started-at="2024-06-14T14:40:03 IST" name="popuptest" finished-at="2024-06-14T14:40:25 IST" duration-ms="22421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- popuptest -->
+        <test-method is-config="true" signature="befmthd()[pri:0, instance:Turtletestpkg.Turtletestcls@2ddc9a9f]" started-at="2024-06-14T14:40:25 IST" name="befmthd" finished-at="2024-06-14T14:40:25 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befmthd -->
+        <test-method signature="logintest()[pri:2, instance:Turtletestpkg.Turtletestcls@2ddc9a9f]" started-at="2024-06-14T14:40:25 IST" name="logintest" finished-at="2024-06-14T14:40:59 IST" duration-ms="33433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+      </class> <!-- Turtletestpkg.Turtletestcls -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
